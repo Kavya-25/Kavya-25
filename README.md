@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning javascript
 - 🌐 The link to my personal portfolio website is [here](https://kavyaportfolio25.netlify.app/)
-- Github stats
+<br/>
  [![Kavya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kavya-25&show_icons=true&theme=radical)](https://github.com/Kavya-25/github-readme-stats)
 
 <!---
