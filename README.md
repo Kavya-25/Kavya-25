@@ -11,7 +11,7 @@
  <img src="https://komarev.com/ghpvc/?username=Kavya-25&style=flat-square&color=blue" alt=""/>
 </div>
 <h1 align="center">
-  Hey there
+  Hey there !!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px" height="40px"/>
 </h1>
 <h1>:woman_technologist: About Me :</h1>
