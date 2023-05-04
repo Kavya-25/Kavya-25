@@ -43,11 +43,10 @@
    <img src="https://camo.githubusercontent.com/626fb60c4c17c2cf2ad0e599efaa8ed691ede878ce1e94b85c0c401701716f8e/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6e6f64656a732f6e6f64656a732d6f726967696e616c2d776f72646d61726b2e737667" title="Nodejs" alt="nodejs" width="40" height="40"/>&nbsp;
   <img src="https://camo.githubusercontent.com/715227adcbce086f9b1e9ffa7b50efb637451aaef673a7a2438a12c9bd1bd90a/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f66697265626173652f66697265626173652d706c61696e2d776f72646d61726b2e737667" title="Firebase" alt="firebase" width="40" height="40"/>&nbsp;
 </div><hr/>
-<br/>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Kavya-25)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kavya-25&layout=compact&theme=vision-friendly-dark)](https://github.com/Kavya-25/github-readme-stats)<br/><br/>
 [![Kavya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kavya-25&show_icons=true&theme=radical)](https://github.com/Kavya-25/github-readme-stats) <br/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Kavya-25&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 
 
