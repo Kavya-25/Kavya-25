@@ -20,7 +20,7 @@
 - 👀 I’m interested and passionate about web development and love to make new projects.
 - 🌱 I’m currently learning React.js
 - 💻 Also Learning Data Structure & Algorithm
-- 🌐 [The link to my personal portfolio website is here](https://kavyaportfolio25.netlify.app/)
+- 🌐 [The link to my personal portfolio website is here](https://kavyaportfolio.vercel.app/)
 
 
 
