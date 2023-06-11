@@ -18,7 +18,7 @@
 
 - 👋 Hi, I’m Kavya
 - 👀 I’m interested and passionate about web development and love to make new projects.
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently learning Backend Development
 - 💻 Also Learning Data Structure & Algorithm
 - 🌐 [The link to my personal portfolio website is here](https://kavyaportfolio.vercel.app/)
 
